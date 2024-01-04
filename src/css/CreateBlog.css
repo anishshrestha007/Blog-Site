@@ -1,0 +1,32 @@
+.createblog-div {
+  background-color: aliceblue;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.create-blog {
+  width: 50%;
+  margin: auto;
+  padding: 60px 10px 60px 10px;
+}
+
+.ckEditor {
+  margin: 10px 0px 10px 0px;
+}
+
+.blog-title {
+  margin: 10px 10px 10px 10px;
+}
+
+.createblog-h2 {
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+.ck-powered-by {
+  display: none;
+}
+
+.ck-editor__editable {
+  min-height: 500px;
+}

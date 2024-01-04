@@ -1,0 +1,20 @@
+.blog-detail-main {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: aliceblue;
+  padding: 50px;
+}
+
+.blog-detail-preview {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.blog-detail-title {
+  text-align: center;
+  padding: 30px;
+}
+
+.blog-detail img {
+  max-width: -webkit-fill-available;
+}
